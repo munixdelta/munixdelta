@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Suraj Kumar</title>
+  <desc id="desc">Computer Science student exploring AI, Machine Learning and Agentic AI.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101f34"/><stop offset="1" stop-color="#262244"/></linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#7296a5" opacity="0.13"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#dots)"/>
+  <rect x="52" y="52" width="48" height="5" rx="2.5" fill="#aeb5ff"/>
+  <text x="52" y="119" font-family="Segoe UI,Arial,sans-serif" font-size="43" font-weight="700" letter-spacing="1" fill="#f4f8fc">SURAJ KUMAR</text>
+  <text x="54" y="166" font-family="Segoe UI,Arial,sans-serif" font-size="23" fill="#aeb5ff">AI / ML · Deep Learning · NLP · Agentic AI</text>
+  <text x="54" y="226" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#b7c7d7">Exploring intelligent systems, one concept at a time.</text>
+  <g fill="none" stroke="#aeb5ff" stroke-width="2" opacity="0.5"><path d="M900 91 L1045 70 L1113 150 L1005 230 L900 91 L1113 150 L889 208 L1045 70"/></g>
+  <g fill="#24253c" stroke="#aeb5ff" stroke-width="3"><circle cx="900" cy="91" r="11"/><circle cx="1045" cy="70" r="8"/><circle cx="1113" cy="150" r="13"/><circle cx="1005" cy="230" r="9"/><circle cx="889" cy="208" r="7"/></g>
+</svg>
