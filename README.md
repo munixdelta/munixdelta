@@ -30,7 +30,7 @@ A computer vision pipeline that detects pedestrians, tracks vehicles across vide
 
 **Stack** · YOLOv8 · ByteTrack · FastAPI
 
-### [munixdelta/AGENTIC_AI_IN_TRIAL](https://github.com/munixdelta/AGENTIC_AI_IN_TRIAL)
+### [AGENTIC_AI_IN_TRIAL](https://github.com/munixdelta/AGENTIC_AI_IN_TRIAL)
 
 A day-by-day Python lab covering PDF retrieval, model tool calls, and persistent agent memory. Start with these three experiments.
 
