@@ -12,6 +12,12 @@ I'm a **B.Tech Computer Science and Artificial Intelligence student** at **KIET 
 
 ## Featured projects
 
+### [Medical Counterfeit Detection](https://github.com/UtkarshSingh368/Medical_Counterfiet_Detection/tree/main/counterfeit_auth-main)
+
+My main project explores how computer vision can help identify counterfeit medical products from images. The repository includes scripts for image cropping, feature extraction, YOLO and Vision Transformer training, and inference. It also includes evaluation plots for inspecting classification performance.
+
+**Project files** · [Training and inference](https://github.com/UtkarshSingh368/Medical_Counterfiet_Detection/tree/main/counterfeit_auth-main/src) · [Evaluation plots](https://github.com/UtkarshSingh368/Medical_Counterfiet_Detection/tree/main/counterfeit_auth-main/results)
+
 ### [CVKI · Civic Visual Knowledge Intelligence](https://github.com/munixdelta/C-V-K-I_FULL)
 
 A civic decision-support platform that combines citizen photos, GPS, and local-language reports. It detects potential hazards, checks whether the image and description agree, and prepares cases for human review.
@@ -36,7 +42,6 @@ A day-by-day Python lab covering PDF retrieval, model tool calls, and persistent
 
 ## More work
 
-- [**Medical Counterfeit Detection**](https://github.com/UtkarshSingh368/Medical_Counterfiet_Detection/tree/main/counterfeit_auth-main) · A project exploring medical product authentication, hosted in a collaborator's repository.
 - [**LeetCode Logs**](https://github.com/munixdelta/LEETCODE_LOGS) · C++ solutions and problem-solving practice.
 
 ## Currently exploring
