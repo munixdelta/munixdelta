@@ -42,7 +42,16 @@ A day-by-day Python lab covering PDF retrieval, model tool calls, and persistent
 
 ## More work
 
-- [**LeetCode Logs**](https://github.com/munixdelta/LEETCODE_LOGS) · C++ solutions and problem-solving practice.
+## [LeetCode Logs](https://github.com/munixdelta/LEETCODE_LOGS)
+
+I keep a running record of my data structures and algorithms practice in C++. Each problem folder includes the problem statement and my solution.
+
+| Pattern | Example solution |
+| :--- | :--- |
+| Binary search | [Search in Rotated Sorted Array](https://github.com/munixdelta/LEETCODE_LOGS/blob/main/0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.cpp) |
+| Sliding window | [Minimum Window Substring](https://github.com/munixdelta/LEETCODE_LOGS/blob/main/0076-minimum-window-substring/0076-minimum-window-substring.cpp) |
+| Fast and slow pointers | [Linked List Cycle](https://github.com/munixdelta/LEETCODE_LOGS/blob/main/0141-linked-list-cycle/0141-linked-list-cycle.cpp) |
+| Tree traversal | [Binary Tree Inorder Traversal](https://github.com/munixdelta/LEETCODE_LOGS/blob/main/0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.cpp) |
 
 ## Currently exploring
 
