@@ -55,6 +55,18 @@ I'm a **B.Tech Computer Science and Artificial Intelligence student** at **KIET 
 </ul>
 </td>
 </tr>
+<tr>
+<td valign="top">
+<h3><a href="https://www.urbanspiceevents.com/">Urban Spice Events &amp; Catering</a></h3>
+<p>A live catering website with service and menu pages, an event gallery, and quote enquiries.</p>
+<a href="https://munixdelta.github.io/#work">Watch the walkthrough</a>
+</td>
+<td valign="top">
+<h3><a href="https://github.com/munixdelta/TextSummarizer">TextSummarizer</a></h3>
+<p>Wheeltrix internship project. Summarizes documents using TF-IDF and DistilBART, with optional ROUGE evaluation.</p>
+<a href="https://munixdelta.github.io/#internship">Internship and completion certificate</a>
+</td>
+</tr>
 </table>
 
 ## Currently exploring
