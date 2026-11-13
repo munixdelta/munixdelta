@@ -35,23 +35,13 @@ I'm a **B.Tech Computer Science and Artificial Intelligence student** at **KIET 
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td colspan="2" valign="top">
 <h3><a href="https://github.com/munixdelta/AGENTIC_AI_IN_TRIAL">AGENTIC_AI_IN_TRIAL</a></h3>
 <p>Day-by-day Python experiments in agentic AI and RAG.</p>
 <ul>
 <li><a href="https://github.com/munixdelta/AGENTIC_AI_IN_TRIAL/blob/main/Day12-1.py">Hybrid PDF retrieval</a></li>
 <li><a href="https://github.com/munixdelta/AGENTIC_AI_IN_TRIAL/blob/main/Day16-1.py">Groq tool calling</a></li>
 <li><a href="https://github.com/munixdelta/AGENTIC_AI_IN_TRIAL/blob/main/Day21-2.py">JSON-based agent memory</a></li>
-</ul>
-</td>
-<td valign="top">
-<h3><a href="https://github.com/munixdelta/LEETCODE_LOGS">LeetCode Logs</a></h3>
-<p>C++ practice with problem statements and solutions organized by problem.</p>
-<ul>
-<li><a href="https://github.com/munixdelta/LEETCODE_LOGS/tree/main/0033-search-in-rotated-sorted-array">Binary search</a></li>
-<li><a href="https://github.com/munixdelta/LEETCODE_LOGS/tree/main/0076-minimum-window-substring">Sliding window</a></li>
-<li><a href="https://github.com/munixdelta/LEETCODE_LOGS/tree/main/0141-linked-list-cycle">Fast and slow pointers</a></li>
-<li><a href="https://github.com/munixdelta/LEETCODE_LOGS/tree/main/0094-binary-tree-inorder-traversal">Tree traversal</a></li>
 </ul>
 </td>
 </tr>
