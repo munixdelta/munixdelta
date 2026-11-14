@@ -49,7 +49,7 @@ I'm a **B.Tech Computer Science and Artificial Intelligence student** at **KIET 
 <td valign="top">
 <h3><a href="https://www.urbanspiceevents.com/">Urban Spice Events &amp; Catering</a></h3>
 <p>A live catering website with service and menu pages, an event gallery, and quote enquiries.</p>
-<a href="https://munixdelta.github.io/#work">Watch the walkthrough</a>
+<a href="https://munixdelta.github.io/#work">Watch the walkthrough</a> · <a href="https://github.com/munixdelta/Urban-Spice-Website">View source</a>
 </td>
 <td valign="top">
 <h3><a href="https://github.com/munixdelta/TextSummarizer">TextSummarizer</a></h3>
