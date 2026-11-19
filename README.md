@@ -103,8 +103,13 @@ I'm a **B.Tech Computer Science and Artificial Intelligence student** at **KIET 
 </td>
 <td width="50%" valign="top">
 <p><strong>📁 <a href="https://github.com/munixdelta/AGENTIC_AI_IN_TRIAL">AGENTIC_AI_IN_TRIAL</a></strong> <sub>Public</sub></p>
-<br>
-<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"></p>
+<p>Hands-on Python experiments exploring retrieval-augmented generation (RAG), LLM tool calling, and persistent agent memory.</p>
+<ul>
+<li><a href="https://github.com/munixdelta/AGENTIC_AI_IN_TRIAL/blob/main/Day12-1.py">Hybrid PDF search</a> — BM25 + vector retrieval, query rewriting, and cross-encoder reranking.</li>
+<li><a href="https://github.com/munixdelta/AGENTIC_AI_IN_TRIAL/blob/main/Day16-1.py">Tool-calling agents</a> — Groq-powered function calls with tool results passed back to the model.</li>
+<li><a href="https://github.com/munixdelta/AGENTIC_AI_IN_TRIAL/blob/main/Day21-2.py">Persistent memory</a> — save, retrieve, and update user context in JSON across sessions.</li>
+</ul>
+<p><strong>Stack</strong> · Python · ChromaDB · BM25 · Sentence Transformers · Groq · Gemini</p>
 </td>
 </tr>
 </table>
