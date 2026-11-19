@@ -56,7 +56,14 @@ I'm a **B.Tech Computer Science and Artificial Intelligence student** at **KIET 
   </tr>
 </table>
 
-**Retrieval and evaluation** · BM25 · ChromaDB · ROUGE
+<table align="center">
+  <tr><th colspan="3">Retrieval &amp; Evaluation</th></tr>
+  <tr>
+    <td align="center" width="170"><img src="https://img.shields.io/badge/BM25-172844?style=for-the-badge" alt="BM25" height="30"><br>Keyword Retrieval</td>
+    <td align="center" width="170"><img src="https://img.shields.io/badge/ChromaDB-172844?style=for-the-badge" alt="ChromaDB" height="30"><br>Vector Database</td>
+    <td align="center" width="170"><img src="https://img.shields.io/badge/ROUGE-172844?style=for-the-badge" alt="ROUGE" height="30"><br>Summarization Evaluation</td>
+  </tr>
+</table>
 
 ---
 
@@ -95,13 +102,9 @@ I'm a **B.Tech Computer Science and Artificial Intelligence student** at **KIET 
 <a href="https://munixdelta.github.io/#internship">Internship and completion certificate</a>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/munixdelta/AGENTIC_AI_IN_TRIAL">Agentic AI in Trial</a></h3>
-<p>Day-by-day Python experiments in agentic AI and RAG.</p>
-<ul>
-<li><a href="https://github.com/munixdelta/AGENTIC_AI_IN_TRIAL/blob/main/Day12-1.py">Hybrid PDF retrieval</a></li>
-<li><a href="https://github.com/munixdelta/AGENTIC_AI_IN_TRIAL/blob/main/Day16-1.py">Groq tool calling</a></li>
-<li><a href="https://github.com/munixdelta/AGENTIC_AI_IN_TRIAL/blob/main/Day21-2.py">JSON-based agent memory</a></li>
-</ul>
+<p><strong>📁 <a href="https://github.com/munixdelta/AGENTIC_AI_IN_TRIAL">AGENTIC_AI_IN_TRIAL</a></strong> <sub>Public</sub></p>
+<br>
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"></p>
 </td>
 </tr>
 </table>
@@ -111,3 +114,15 @@ I'm a **B.Tech Computer Science and Artificial Intelligence student** at **KIET 
 ## 📊 GitHub Stats
 
 <p align="center"><img src="https://streak-stats.demolab.com/?user=munixdelta&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0d1117&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakLabel=58a6ff" alt="GitHub contribution totals, current streak, and longest streak"></p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/munixdelta/munixdelta/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/munixdelta/munixdelta/output/github-snake.svg">
+    <img alt="Snake animation of my GitHub contributions" src="https://raw.githubusercontent.com/munixdelta/munixdelta/output/github-snake.svg" width="100%">
+  </picture>
+</p>
